@@ -9,8 +9,8 @@ font-size: 40px;
 
 }
 #logo{
-    height: 65px;
-    width: 70px;
+    height: 80px;
+    width: 80px;
 }
 #object-label{
     width: 50%;
@@ -18,4 +18,14 @@ font-size: 40px;
 #camera{
     width: 250px;
     height: 250px;
+    box-shadow:2px 5px 50px bisque ;
+}
+#snapshot{
+    width: 250px;
+    height: 250px;
+    box-shadow:2px 5px 50px bisque ;
+}
+#devloped{
+    width: 100%;
+    font-family: 'Shadows Into Light', cursive;
 }
